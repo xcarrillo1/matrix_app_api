@@ -7,8 +7,8 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 Character.create([
-	{ name: "Neo", description: false },
-	{ name: "Trinity", description: false },
-	{ name: "Morpheus", description: false },
-	{ name: "Agent Smith", description: false },
+	{ name: "Neo", description: "Neo is a former bluepill rescued by Morpheus together with the crew of the Nebuchadnezzar."},
+	{ name: "Trinity", description: "Trinity is a computer programmer and a hacker who has escaped from the Matrix, a sophisticated computer program where most humans are imprisoned."},
+	{ name: "Morpheus", description: "Morpheus is the captain of the Nebuchadnezzar."},
+	{ name: "Agent Smith", description: "Smith began as an Agent, an AI program in the Matrix programmed to keep order within the system by terminating human simulacra."},
 ])
