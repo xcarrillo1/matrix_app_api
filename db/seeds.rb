@@ -12,3 +12,7 @@ Character.create([
 	{ name: "Morpheus", description: "Morpheus is the captain of the Nebuchadnezzar."},
 	{ name: "Agent Smith", description: "Smith began as an Agent, an AI program in the Matrix programmed to keep order within the system by terminating human simulacra."},
 ])
+
+Vehicle.create([
+	{stlye: "Spaceship", name: "Nebuchadnezzar"}
+])
